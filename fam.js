@@ -1,3 +1,1 @@
-console.log("msc graduate");
-console.log("headache");
-console.log("4th child");
+console.log("my father details");
