@@ -1,1 +1,1 @@
-console.log("my father details");
+console.log("my mother details");
